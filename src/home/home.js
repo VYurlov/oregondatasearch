@@ -4,7 +4,7 @@ import { HomeWrap } from './homeStyles';
 function Home () {
     return (
         <HomeWrap>
-
+            <div></div>
         </HomeWrap>
     )
 }
